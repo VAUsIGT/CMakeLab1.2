@@ -1,0 +1,3 @@
+C:/Users/XOMA/source/repos/CMakeLab1.2/NewRes2/CMakeFiles/example.dir
+C:/Users/XOMA/source/repos/CMakeLab1.2/NewRes2/CMakeFiles/ALL_BUILD.dir
+C:/Users/XOMA/source/repos/CMakeLab1.2/NewRes2/CMakeFiles/ZERO_CHECK.dir
