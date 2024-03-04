@@ -1,4 +1,4 @@
 /build/*
-!/build/СMakeList.txt
+!/build/СMakeLists.txt
 !/build/main.cpp
 **/*.jpg
